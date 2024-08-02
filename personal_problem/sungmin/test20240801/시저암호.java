@@ -1,7 +1,4 @@
 // 시저 암호
-
-package com.ohgiraffers.test20240801;
-
 public class 시저암호 {
         public String solution(String s, int n) {
             String answer = "";
