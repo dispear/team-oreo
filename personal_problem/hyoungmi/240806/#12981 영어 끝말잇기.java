@@ -2,7 +2,6 @@ class Solution {
     public int[] solution(int n, String[] words) {
         int[] answer = {0, 0};
 
-        // 같은 단어 말해서 탈락
         label:
         for (int i = 1; i < words.length; i++) {
             // 앞사람이 말한 단어의 마지막 문자로 시작하지 않는 경우
