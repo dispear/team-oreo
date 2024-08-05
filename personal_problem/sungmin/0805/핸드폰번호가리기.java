@@ -10,6 +10,7 @@ public class 핸드폰번호가리기 {
             sb.append(phone_number.substring(len - 4, len));
 
             return sb.toString();
+            
         }
     }
 }
