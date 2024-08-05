@@ -1,5 +1,8 @@
 package level01;
 
+/* 문제명: [1차] 다트 게임
+ * 링크: https://school.programmers.co.kr/learn/courses/30/lessons/17682 */
+
 public class Programmers17682 {
     public static void main(String[] args) {
         System.out.println(new Programmers17682().solution("1D2S3T*"));
