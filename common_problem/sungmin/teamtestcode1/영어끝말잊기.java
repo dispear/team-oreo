@@ -3,20 +3,22 @@ import java.util.Set;
 
 public class Solution {
     public int[] solution(int n, String[] words) {
-        Set<String> Words = new HashSet<>();
-        char lastChar = words[0].charAt(0);
+        public int[] solution ( int n, String[] words){
+            Set<String> usew = new HashSet<>(); //사용한 단어 저장
+            char c = words[0].charAt(0);
 
-        for (int i = 0; i < words.length; i++) {
-            String word = words[i];
+            for (int i = 0; i < words.length; i++) {
+                String w = words[i]; // 검사
 
-            if (Words.contains(word) || word.charAt(0) != lastChar) {
-                int player = (i % n) + 1;
-                int turn = (i / n) + 1;
-                return new int[]{player, turn};
+                if (s.contains(w) || w.charAt(0) != c) {
+                    int p = (i % n) + 1;
+                    int t = (i / n) + 1;
+                    return new int[]{p, t};
+                }
+                s.add(w);
+                c = w.charAt(w.length() - 1);
             }
-            Words.add(word);
-            lastChar = word.charAt(word.length() - 1);
+            return new int[]{0, 0};
         }
-        return new int[]{0, 0};
     }
 }
