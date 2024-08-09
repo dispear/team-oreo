@@ -8,7 +8,6 @@ public static void main(String[] args) {
             for(int i = 0; i<hap.length() ; i++){
                 hap_n += hap.charAt(i)-48;
             }
-
             if(x%hap_n==0){
                 answer = true;
             } else {
