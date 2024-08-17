@@ -1,10 +1,6 @@
 package level01;
 
 public class Programmers12928 {
-    public static void main(String[] args) {
-        System.out.println(new Programmers12928().solution(12));
-    }
-
     public int solution(int n) {
         int answer = 0;
 
