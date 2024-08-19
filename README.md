@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center"><a href=https://github.com/kookong2><b>kookong2</b></a></td>
-    <td align="center"><a href="https://github.com/sungmini9755"><b>sung-mini</b></a></td>
+    <td align="center"><a href="https://github.com/sung-mini"><b>sung-mini</b></a></td>
     <td align="center"><a href="https://github.com/AYeong-Jeon"><b>AYeong-Jeon</b></a></td>
     <td align="center"><a href="https://github.com/dispear"><b>dispear</b></a></td>
     <td align="center"><a href="https://github.com/Pangtaek"><b>Pangtaek</b></a></td>
