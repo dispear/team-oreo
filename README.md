@@ -28,7 +28,7 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/kookong2"><img src="https://avatars.githubusercontent.com/u/92318119?v=4" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sungmini9755"><img src="https://avatars.githubusercontent.com/u/174118592?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/sung-mini"><img src="https://avatars.githubusercontent.com/u/174118592?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/AYeong-Jeon"><img src="https://avatars.githubusercontent.com/u/102805138?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/dispear"><img src="https://avatars.githubusercontent.com/u/87793524?s=400&v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Pangtaek"><img src="https://avatars.githubusercontent.com/u/103546300?v=4" width="130px;" alt=""></a></td>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center"><a href=https://github.com/kookong2><b>kookong2</b></a></td>
-    <td align="center"><a href="https://github.com/sungmini9755"><b>sungmini9755</b></a></td>
+    <td align="center"><a href="https://github.com/sungmini9755"><b>sung-mini</b></a></td>
     <td align="center"><a href="https://github.com/AYeong-Jeon"><b>AYeong-Jeon</b></a></td>
     <td align="center"><a href="https://github.com/dispear"><b>dispear</b></a></td>
     <td align="center"><a href="https://github.com/Pangtaek"><b>Pangtaek</b></a></td>
