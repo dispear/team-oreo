@@ -4,7 +4,6 @@ public class 기능개발 {
         ArrayList<Integer> answer = new ArrayList<Integer>();  //결과를 반환할 int형을 담는 ArrayList answer 선언
         Queue<Integer> queue = new LinkedList<Integer>();   // progresses의 각 인덱스 값이 100을 넘는 최소일수
 
-
         for (int i = 0; i < progresses.length; i++) {
             queue.add((int) Math.ceil((100.0 - progresses[i]) / speeds[i]));  //progresses 각 인덱스 값이 100을 넘기 위한 최소일수 계산 후 queue에 add 메소드로 넣기
         }
@@ -24,4 +23,5 @@ public class 기능개발 {
 
         return answer;
     }
+
 }
